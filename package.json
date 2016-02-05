@@ -1,0 +1,20 @@
+{
+  "name": "Lumberyard",
+  "version": "1.0.0",
+  "description": "Parses log files and stores them in a mssql db",
+  "scripts": {
+    "postinstall": "make"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jimclouse/lumberyard.git"
+  },
+  "author": "Jim Clouse",
+  "license": "MIT",
+  "dependencies": {
+    "coffee-script": "1.10.0"
+  },
+  "engines": {
+    "node": "4.1.2"
+  }
+}
