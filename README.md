@@ -41,7 +41,7 @@ This will install fluentd, freetds, and the python tools needed
 * run `make full`
  
 ### I've Already Got fluentd Installed
-Installation is much more manual for you
+Installation is much more manual for you because we don't want to overwrite your existing fluentd config settings.
 * From /home/ubuntu** clone this repo
 * cd into Lumberyard
 * run `make partial`
